@@ -4,4 +4,4 @@ A design for yime 2.0
 
 Demo
 
-<img src="https://imgur.com/a/gkBhrOd" alt="Yime 2.0 UI demo">
+<img src="https://i.imgur.com/8NfIr8Z.mp4" alt="Yime 2.0 UI demo">
